@@ -58,10 +58,10 @@ You need to have Node.js and npm installed on your machine.
 ### Installing
 
 1. Clone the repository
+2. 
+gh repo clone YashGothi/ProfilePulse-University-Student-Profile-Management
 
-git clone https://github.com/YashGothi/To-Do-App
-
-2. Install dependencies
+3. Install dependencies
 ```sh
 cd <authenticateapp>
 npm install
