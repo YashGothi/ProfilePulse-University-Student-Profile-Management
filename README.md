@@ -81,6 +81,6 @@ Your Name - yashgothi14@gmail.com
 
 Project Deployment Link: https://authenticateapp-778fc.web.app/login
 
-Project Link: https://github.com/YashGothi/Authentication-via-Email
+Project Link: https://github.com/YashGothi/ProfilePulse-University-Student-Profile-Management
 Contributing
 Contributions to this project are welcome. Please feel free to fork the repository, make changes, and submit pull requests.
