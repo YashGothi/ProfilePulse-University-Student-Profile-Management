@@ -76,7 +76,5 @@ npm start
 * [Firebase](https://firebase.google.com/) - Backend services
 * [npm](https://www.npmjs.com/) - Dependency Management
 
-Contact
-Your Name - yashgothi14@gmail.com
-Project Link: https://github.com/YashGothi/ProfilePulse-University-Student-Profile-Management
+
 
